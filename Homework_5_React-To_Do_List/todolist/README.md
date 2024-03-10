@@ -1,1 +1,1 @@
-#A much cleaner versio of a to do list that that material UI.
+#A much cleaner versio of a to do list that uses material UI.
